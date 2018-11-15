@@ -1,0 +1,91 @@
+/* on the road */
+h1 a {
+    color: gold;
+    font-family: Lato;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+/* the adventure of a lifetime */
+header h2 {
+    font-family: Lato;
+    font-weight: lighter;
+}
+
+/* nav bar */
+nav a {
+    color: lightgray;
+    font-family: lato;
+    font-size: 20px;
+    text-decoration: none;
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+}
+
+/* dates */
+article h3 {
+    font-family: Lato;
+    color: darkgrey;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+/* camping by loon lake */
+article h2 a {
+    text-decoration: none;
+    font-family: Lato;
+    font-weight: 500;
+    font-size: 30px;
+    color: black;
+}
+
+.first-letter {
+    font-family: lato;
+    font-size: 100px;
+    display: block;
+    color: lightslategray;
+    float: left;
+    line-height: 80%;
+}
+
+/* "continues" link under 11/12/15 */
+article h4 a {
+    float: right;
+    color: gold;
+    text-decoration: none;
+    font-family: lato;
+    font-weight: 700;
+    margin: 0px 0px 30px 0px;
+}
+
+/* paragraph text */
+article p {
+    font-family: lato;
+    font-weight: 300;
+}
+
+hr {
+    clear: both;
+}
+
+footer {
+    margin: 30px 10px 10px 10px;
+    clear: both;
+}
+
+footer nav a {
+    text-decoration: none;
+    color: gold;
+    font-family: lato;
+}
+
+footer nav {
+    color: grey;
+}
+
+footer p {
+    font-family: lato;
+    color: lightgrey;
+    font-weight: 700;
+}
